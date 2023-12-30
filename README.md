@@ -1,4 +1,4 @@
-# [Boburkhon Kamalov] 
+# Boburkhon Kamalov 
 
 **Front-End Developer with a Passion for Building Engaging User Interfaces**
 
