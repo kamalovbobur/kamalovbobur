@@ -21,7 +21,7 @@ I'm a computer professional with 1 year of experience in front-end development, 
 
 ##  Experience
 
-**Auto Imaging Operator, SiteLabs Company** | [01-2022] - [09-2023]
+**Auto Imaging Operator, SiteLabs Company** | 01-2022 - 09-2023
 
 - Collaborated with cross-functional teams to design and implement user interfaces for internal company applications.
 - Developed and maintained responsive websites using HTML, CSS, and JavaScript.
@@ -30,17 +30,23 @@ I'm a computer professional with 1 year of experience in front-end development, 
 
 ##  Education
 
-**[Avia Operator], [Tashkent State Transport University]** | [2027]
+**Avia Operator, Tashkent State Transport University** | 2027
 
-- Relevant Coursework: [List of relevant coursework]
+- Relevant Coursework: 
+  - Aviation Regulations
+  - Aircraft Systems and Operations
+  - Navigation and Air Traffic Control
+  - Meteorology in Aviation
+  - Aviation Safety and Emergency Procedures
 
 ##  Contact
 
-- Email: [boburkamalov95@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/bobur-kamalov-230303251]
-- Sport & Health
-- Cars & Drift
-- New technology
-- Learning languages
-- Artificial intelligence
-- Video games
+- Email: boburkamalov95@gmail.com
+- LinkedIn: [Bobur Kamalov](https://www.linkedin.com/in/bobur-kamalov-230303251)
+- Interests: 
+  - Sport & Health
+  - Cars & Drift
+  - New technology
+  - Learning languages
+  - Artificial intelligence
+  - Video games
