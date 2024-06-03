@@ -30,7 +30,7 @@ I'm a computer professional with 1 year of experience in front-end development, 
 
 ##  Education
 
-**Avia Operator, Tashkent State Transport University** | 2027
+**Air traffic control (ATC), Tashkent State Transport University** | 2027
 
 - Relevant Coursework: 
   - Aviation Regulations
@@ -41,7 +41,7 @@ I'm a computer professional with 1 year of experience in front-end development, 
 
 ##  Contact
 
-- Email: boburkamalov95@gmail.com
+- Email: boburaviation@gmail.com
 - LinkedIn: [Bobur Kamalov](https://www.linkedin.com/in/bobur-kamalov-230303251)
 - Interests: 
   - Sport & Health
