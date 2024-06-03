@@ -43,7 +43,7 @@ I'm a computer professional with 1 year of experience in front-end development, 
 
 - Email: boburaviation@gmail.com
 - LinkedIn: [Bobur Kamalov](https://www.linkedin.com/in/bobur-kamalov-230303251)
-- Number: +99891361-36-76
+- Number: +998913613676
 - Interests: 
   - Sport & Health
   - Cars & Drift
